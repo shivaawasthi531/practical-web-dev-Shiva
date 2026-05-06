@@ -42,16 +42,10 @@ function UserList() {
 
   return (
     <div className="user-list">
-      {/*
-        🔽 
-        
 
-      */}
       {users.map((user) => (
         <div key={user.id} className="user-card">
-          {/*
-
-          */}
+        
           <p className="user-username"> <strong>Username:</strong> {user.username}</p>
           <p className="user-email"> <strong>Email:</strong> {user.email}</p>
         </div>
