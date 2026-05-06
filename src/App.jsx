@@ -19,7 +19,7 @@ function App() {
     <div className="app">
 
       
-      <h1 className="app-title"> Set 1 — Props & API Fetching</h1>
+      <h1 className="app-title">  — Props & API Fetching</h1>
 
       <section className="task-section">
         <h2 className="task-title">Task 1: Props (Parent → Child)</h2>
